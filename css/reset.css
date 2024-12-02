@@ -1,18 +1,7 @@
-/* ==========================================================================
-   Reset
-   ========================================================================== */
-
-/**
- * Remove anchor tex-decoration
- */ 
-
- a {
+/* Tá fznd oq aqui ?? Hmmm */ 
+a {
 	text-decoration: none;
 }
-
-/**
- * Remove list-style
- */ 
 
 ol, ul {
 	list-style: none;

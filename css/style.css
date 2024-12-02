@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
 body {
-  font-family: cursive;
+  font-family: "Patua One", serif;
   color: #FFF6FF;
   background-color: #1a1a1a;
   height: 100vh;
@@ -12,8 +13,8 @@ body {
 .container {
   max-width: 450px;
   padding: 0.625rem 0.938rem;
-  box-shadow: 10px 10px 0em #80044ebd;
-  border: 2px solid #b2048fc7;
+  box-shadow: 10px 10px 0em #909090bd;
+  border: 2px solid #c4c4c4;
 }
 
 .header {
@@ -54,12 +55,12 @@ body {
 
 .links a:hover {
   display: block;
-  background-color: #5F4B64;
+  background-color: #c33d3d;
   animation: mouseHover 1.5s;
 }
 
 ion-icon:hover {
-  color: #5F4B64;
+  color: #8e8e8e;
   animation: mouseHover 1.5s;
 }
 
